@@ -62,6 +62,7 @@
     "Research": {
         "Anomaly Report": "research/anomaly.txt",
         "Xenoflora Report": "research/xenoflora.txt"
+        "Robotics Augment Request Form": "research/robotics-augment-request-form.txt"
     },
     "Security": {
         "Arrest Report": "security/arrest_report.txt",
