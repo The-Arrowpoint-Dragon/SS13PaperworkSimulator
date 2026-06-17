@@ -1,0 +1,29 @@
+
+[b][large]Augment Request Sheet[/large][/b]
+[hr]
+[b]Date:[/b] [u][date][/u]
+[b]Name: [/b][field]
+[b]Species: [/b][field]
+[b]Date Of Birth: [/b][field]
+[b]Occapation: [/b][field]
+[b]Legal Status: [/b][field]
+
+[table][cell][b]Augment[/b][cell][b]Reason For Augment[/b][/small][row][cell]-[b][field] [/b][cell][small][b][field][/small][row][cell]-[b][field] [/b][cell][small][b][field][/small][row][cell][b]-[field] [/b][cell][small][b][field][/small][row][cell]-[b][field] [/b][cell][small][b][field][/small][row][cell]-[b][field] [/b][cell][small][b][field][/small][row][cell]-[b][field] [/b][cell][small][b][field][/small][row][cell]-[b][field] [/b][cell][small][b][field][/small][row][cell]-[b][field] [/b][cell][small][b][field][/small][row][cell]-[b][field] [/b][cell][small][b][field][/b][/small][row][cell][b]-[field][cell][small][b][field][/table][small][i](OOC Info you can use "%s" in a field to sign it, this is normaly unfakable)[/i][/small]
+
+I, [field], declare that I have truthfully filled out this form to the best of my abillity and accept any and all responsibilities that come with the following procedure(s) as well as exempt NanoTrasen of any liability if any problems were to arrise due to the following procedure(s).
+
+[hr][b]Do not write below line. For professional use only.[/b]
+
+Does any requested augments require authorization? 
+[table][cell][b][i][field][/i][/b][/table]
+if so then by what rank at minimium, [field]
+
+To whom it concerns, please sign the following statement and stamp the blank space to the right of the requested augment list if you authorize [b]All[/b] of the augment(s) on the above list.
+
+I, [field], authorize, [field], to recieve the augment(s) within the above list.
+
+[b]Robotictist: [/b][field]
+
+I, [field], agree to and swear to complete this procedure safely and properly and bear sole responsibility if issues or complications are to arrise due to the following procedure(s).
+
+[b]Additional Notes:[/b] 
